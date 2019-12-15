@@ -4,4 +4,4 @@ commands.ls();
 
 commands.mkdir();
 
-//commands.touch();
+commands.touch();
